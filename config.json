@@ -1,0 +1,39 @@
+{
+  "readmeUrl": "https://raw.githubusercontent.com/shrestha-tripathi/portfolio/main/README.md",
+  "title": "Shrestha",
+  "name": "Shrestha Tripathi",
+  "ascii": "SHRESTHA",
+  "social": {
+    "github": "github",
+    "linkedin": "linkedin"
+  },
+  "email": "shrestha.tripathi@gmail.com",
+  "ps1_hostname": "shrestha",
+  "ps1_username": "visitor",
+  "repo": "https://github.com/shrestha-tripathi/portfolio",
+  "resume_url": "https://drive.google.com/file/d/1DOh3-SsDh5D__iBDbq422bfxif4ACq8a/view",
+  "donate_urls": {
+    "paypal": "",
+    "patreon": ""
+  },
+  "colors": {
+    "light": {
+      "background": "#FBF1C9",
+      "foreground": "#3C3836",
+      "yellow": "#D79921",
+      "green": "#98971A",
+      "gray": "#7C6F64",
+      "blue": "#458588",
+      "red": "#CA2124"
+    },
+    "dark": {
+      "background": "#000000",
+      "foreground": "#E5E9F0",
+      "yellow": "#5E81AC",
+      "green": "#A3BE8C",
+      "gray": "#88C0D0",
+      "blue": "#EBCB8B",
+      "red": "#BF616A"
+    }
+  }
+}
